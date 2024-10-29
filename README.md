@@ -6,14 +6,14 @@
 ---
 
 ## 📺 Apple TV
-- **SenPlayer** - [Free(https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
+- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
 - **VidHub** - Paid
 - **Infuse** - Paid
 
 ---
 
 ## 📱 iOS (iPhone/iPad)
-- **SenPlayer** - [Free(https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
+- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
 - **VidHub** - Paid
 - **Infuse** - Paid
 
