@@ -47,7 +47,7 @@
 ---
 
 ## 📺 Amazon Fire Stick / Fire TV
-- **Emby for Fire TV**
+
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/) or look above at **Android TV / Nvidia Shield**
 
