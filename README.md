@@ -29,7 +29,7 @@
 
 ---
 
-### Android TV / Nvidia Shield
+### 📺 Android TV / Nvidia Shield
 
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:**
