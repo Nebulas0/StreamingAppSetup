@@ -24,7 +24,7 @@
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/)
 - **App APK**  
-  - App APK (short URL): https://t.ly/sb5uT
+  - App APK (short URL): [https://t.ly/sb5uT](https://t.ly/sb5uT)
   - [Mega](https://mega.nz/file/MmkmkQRA#rD3_h9PCtyptTyUoFdd8xfppSmGO_dQ-Uo9e8y81GWo)
 
 ---
@@ -41,7 +41,7 @@
 
 - **Downloader by AFTVnews Code:** 785999
 - **App APK**  
-  - App APK (short URL): https://t.ly/2sP7q
+  - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
   - [Mega](https://mega.nz/file/Eu8XhaJY#be7coKD5hIdBqNKJpONsaBLlRJ85kC-8R2FtsIZoHv8)
 
 ---
@@ -53,4 +53,4 @@
 
 - **Downloader by AFTVnews Code:** 785999
 - **App APK**  
-  - App APK (short URL): https://t.ly/2sP7q
+  - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
