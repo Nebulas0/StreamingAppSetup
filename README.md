@@ -36,10 +36,10 @@
   - 1. Go to Settings -> Build Version -> Press it 10-15 times
   - 2. Settings -> Apps - Security settings -> Allow Apps from Unknown Sources
   - 3. Download the app "Downloader by AFTVnews"
-  - 4. Open "Downloader by AFTVnews" and insert the Code: **785999**
+  - 4. Open "Downloader by AFTVnews" and insert the Code: **947240**
   - 5. Follow the prompts
 
-- **Downloader by AFTVnews Code:** 785999
+- **Downloader by AFTVnews Code:** 947240
 - **App APK**  
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
   - [Mega](https://mega.nz/file/Eu8XhaJY#be7coKD5hIdBqNKJpONsaBLlRJ85kC-8R2FtsIZoHv8)
@@ -51,6 +51,6 @@
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/) or look above at **Android TV / Nvidia Shield**
 
-- **Downloader by AFTVnews Code:** 785999
+- **Downloader by AFTVnews Code:** 947240
 - **App APK**  
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
