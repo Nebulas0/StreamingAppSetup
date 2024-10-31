@@ -24,7 +24,7 @@
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/)
 - **App APK**  
-  - App APK (short URL): [https://t.ly/wwuZr](https://t.ly/wwuZr)
+  - App APK (short URL): [https://t.ly/wRUrQ](https://t.ly/wRUrQ)
   - [Mega](https://mega.nz/file/MmkmkQRA#rD3_h9PCtyptTyUoFdd8xfppSmGO_dQ-Uo9e8y81GWo)
 
 ---
