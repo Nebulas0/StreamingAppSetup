@@ -19,6 +19,13 @@
 
 ---
 
+## 🖥️ macOS
+- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892)
+- **Infuse** - Paid
+
+---
+
+
 ## 🤖 Android Devices
 
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
