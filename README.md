@@ -26,6 +26,11 @@
 
 ---
 
+## 🖥️ PC/Linux
+- **Web browser of your choice** 
+- **Chrome can create web apps**
+
+---
 
 ## 🤖 Android Devices
 
