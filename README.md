@@ -7,6 +7,7 @@
 
 ## 📺 Apple TV
 - **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
+- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892)
 - **VidHub** - Paid
 - **Infuse** - Paid
 
