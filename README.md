@@ -6,22 +6,22 @@
 ---
 
 ## 📺 Apple TV
-- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
-- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892)
+- **Conflux** - [Paid](https://apps.apple.com/us/app/conflux-video-player/id6450330892)
+- **SenPlayer** - [Paid](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
 - **VidHub** - Paid
 - **Infuse** - Paid
 
 ---
 
 ## 📱 iOS (iPhone/iPad)
-- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
+- **SenPlayer** - [Paid](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)
 - **VidHub** - Paid
 - **Infuse** - Paid
 
 ---
 
 ## 🖥️ macOS
-- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892)
+- **Conflux** - [Paid](https://apps.apple.com/us/app/conflux-video-player/id6450330892)
 - **Infuse** - Paid
 
 ---
@@ -49,7 +49,7 @@
   - 1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times
   - 2. Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources
   - 3. Download the app "Downloader by AFTVnews"
-  - 4. Open "Downloader by AFTVnews" and insert the Code: **947240**
+  - 4. Open "Downloader by AFTVnews" and insert the Code: **110240**
   - 5. Follow the prompts
 
 - **Downloader by AFTVnews Code:** 947240
@@ -64,6 +64,6 @@
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/) or look above at **Android TV / Nvidia Shield**
 
-- **Downloader by AFTVnews Code:** 947240
+- **Downloader by AFTVnews Code:** 110240
 - **App APK**  
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
